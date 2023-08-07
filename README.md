@@ -29,7 +29,10 @@ The Main class contains the main entry point of the program. It interacts with t
 
 *How to Use
 
-Compile and run the Main class.
-Enter the paths of the two text files that you want to compare.
-Choose a similarity measure (Cosine Similarity, Euclidean Distance, Jaccard Similarity, or Manhattan Distance).
-The program will calculate and display the similarity score between the two text documents using the selected measure.
+-Compile and run the Main class.
+
+-Enter the paths of the two text files that you want to compare
+
+-Choose a similarity measure (Cosine Similarity, Euclidean Distance, Jaccard Similarity, or Manhattan Distance).
+
+-The program will calculate and display the similarity score between the two text documents using the selected measure.
