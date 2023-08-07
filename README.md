@@ -18,10 +18,10 @@ The JaccardSimilarity class implements the SimilarityCalculator interface and ca
 ManhattanDistance Class- 
 The ManhattanDistance class implements the SimilarityCalculator interface and calculates the Manhattan distance between two TF-IDF vectors. It computes the absolute differences between corresponding components of the vectors and returns the sum of these absolute differences.
 
-SimilarityChoice Class
+SimilarityChoice Class- 
 The SimilarityChoice class provides a factory method createCalculator to create instances of different similarity calculator classes based on the user's choice.
 
-TFIDFProcessor Class
+TFIDFProcessor Class- 
 The TFIDFProcessor class handles the processing of TF-IDF values for a given list of tokens and frequency maps. It provides methods to calculate term frequencies, TF-IDF values, and tokenization of input text.
 
 Main Class- 
